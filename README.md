@@ -25,17 +25,17 @@ Run **Geodesic_computation_after_reg.m** to visualize the geodesic path between 
 Run **Mean_modes.m** to visualize the mean 3D shape and the variation of a registered set in the first principal direction of variation. If you want to explore in other principal directions, the instruction is given in the script.
 
 **Mean shape of set4**
-![](mean-ezgif.gif)
+![](mean.gif)
 
 **Mode in first principal direction of set4**
-![](mode1_set4-ezgif.gif)
+![](mode1_set4.gif)
 
 **Step 4: Random sample synthesis**
 
 Run **Synthesize.m** to get random samples by learning from a set.
 
 **Synthesized 3D tree**
-![rand_sample1](.gif)
+![rand_sample4](.gif)
 
 If this repository is useful for your research and you use it, please cite.
 
