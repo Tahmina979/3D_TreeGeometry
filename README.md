@@ -30,7 +30,7 @@ Run **Mean_modes.m** to visualize the mean 3D shape and the variation of a regis
 
 <p align="center">
   <img src="mean-ezgif.com-crop.gif" width="500"><br>
-<b></b>Mean shape of set4</b>
+<b>Mean shape of set4</b>
 </p>
 
 <p align="center">
