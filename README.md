@@ -14,11 +14,9 @@ Run **registration.m** to perform registration in a set of 3D tree-shapes.
 
 Run **Geodesic_computation_before_reg.m** to visualize the geodesic path between two 3D tree models before performing registration.
 <p align="center">
-  <img src="tree_before2_reg-ezgif.com-crop.gif" width="500">
+  <img src="tree_before2_reg-ezgif.com-crop.gif" width="500"><br>.
+<b></b>Geodesic before registration</b>
 </p>
-<b align="center">
-Geodesic before registration
-</b>
 
 Run **Geodesic_computation_after_reg.m** to visualize the geodesic path between two 3D tree models after performing registration.
 <p align="center">
