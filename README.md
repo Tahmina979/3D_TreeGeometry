@@ -14,11 +14,11 @@ Run **registration.m** to perform registration in a set of 3D tree-shapes.
 
 Run **Geodesic_computation_before_reg.m** to visualize the geodesic path between two 3D tree models before performing registration.
 
-![Geodesic before registration](tree_before2_reg.gif)
+![](tree_before2_reg.gif)
 
 Run **Geodesic_computation_after_reg.m** to visualize the geodesic path between two 3D tree models after performing registration.
 
-![Geodesic after registration](tree_with_surf2.gif)
+![](tree_with_surf2.gif)
 
 **Step 3: Summary statistics**
 
@@ -28,7 +28,9 @@ Run **Mean_modes.m** to visualize the mean 3D shape and the variation of a regis
 ![](mean.gif)
 
 **Mode in first principal direction of set4**
-![](mode1_set4.gif)
+<p align="center">
+  <img src="mode1_set4.gif" width="500">
+</p>
 
 **Step 4: Random sample synthesis**
 
