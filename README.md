@@ -16,36 +16,48 @@ Run **Geodesic_computation_before_reg.m** to visualize the geodesic path between
 <p align="center">
   <img src="tree_before2_reg-ezgif.com-crop.gif" width="500">
 </p>
+<b align="center">
+Geodesic before registration
+</b>
 
 Run **Geodesic_computation_after_reg.m** to visualize the geodesic path between two 3D tree models after performing registration.
 <p align="center">
   <img src="tree_with_surf2-ezgif.com-crop.gif" width="500">
 </p>
+<b align="center">
+Geodesic after registration
+</b>
 
 **Step 3: Summary statistics**
 
 Run **Mean_modes.m** to visualize the mean 3D shape and the variation of a registered set in the first principal direction of variation. If you want to explore in other principal directions, the instruction is given in the script.
 
-**Mean shape of set4**
+
 <p align="center">
   <img src="mean-ezgif.com-crop.gif" width="500">
 </p>
+<b align="center">
+Mean shape of set4
+</b>
 
-**Mode in first principal direction of set4**
+
 <p align="center">
   <img src="mode1_set4-ezgif.com-crop.gif" width="500">
 </p>
+<b align="center">
+Mode in first principal direction of set4
+</b>
 
 **Step 4: Random sample synthesis**
 
 Run **Synthesize.m** to get random samples by learning from a set.
-<p align="center">
-**Synthesized 3D tree**
-</p>
 
 <p align="center">
   <img src="rand_sample1-ezgif.com-crop.gif" width="500">
 </p>
+<b align="center">
+Synthesized 3D tree
+</b>
 
 If this repository is useful for your research and you use it, please cite.
 
