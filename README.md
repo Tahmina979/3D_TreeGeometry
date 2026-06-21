@@ -39,8 +39,10 @@ Run **Mean_modes.m** to visualize the mean 3D shape and the variation of a regis
 **Step 4: Random sample synthesis**
 
 Run **Synthesize.m** to get random samples by learning from a set.
-
+<p align="center">
 **Synthesized 3D tree**
+</p>
+
 <p align="center">
   <img src="rand_sample1-ezgif.com-crop.gif" width="500">
 </p>
